@@ -4,9 +4,9 @@
 <tr>
 <td width="60%" valign="top">
 
-**Building at the intersection of AI and Finance.**
+**Developing robust software and AI systems that scale, adapt, and deliver value across domains.**
 
-Currently @NYU, teaching machines to understand money.
+Currently @NYU, combining research and engineering to build the future of intelligent technology.
 
 <pre style="background-color: transparent; border: none; padding: 0; margin: 10px 0;">
 > Born of 4 dimensions and 14 layers [04.14.2003]
@@ -55,3 +55,4 @@ Currently Reading ♫₊˚.🎧 ✧
 </td>
 </tr>
 </table>
+
